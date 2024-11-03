@@ -14,7 +14,7 @@
 		 learning <b>DSA & Mobile Development</b>
 	</p>
 	<p>
-		Proficient in <b style="color: orange;">React, Flask & Python Automation</b>
+		Proficient in <span style="color:blue;">React, Flask & Python Automation</spam>
 	</p>
 </div>
 
