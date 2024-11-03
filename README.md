@@ -40,6 +40,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,mysql,flask,linux" /><br>
 </div>
 
+<br />
+
 <div align=center>
     <img 
         height = 150 
