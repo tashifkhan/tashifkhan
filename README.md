@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=orange" />
   </a>
   <a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank" />
   </a>
   <a href="tashif.codes" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
@@ -57,5 +57,5 @@
 
 <h6> Fun Fact </h6>
 <span>
-   <img height=70 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm a cat
+   <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm a cat
 </span>
