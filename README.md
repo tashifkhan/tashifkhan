@@ -33,8 +33,6 @@
   </a>
 </div>
 
----
-
 <h2 align="center"> Languages, Frameworks, Tools </h2>
 
 <div align="center">
@@ -42,10 +40,8 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,mysql,flask,linux" /><br>
 </div>
 
----
-
 <div align=center>
-<img src = "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"  height=200/>
- <img height = 150 src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img height = 150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react" alt="top langs" />
+<img src = "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"  height=200/> <br />
+ <img height = 200 src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img height = 200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react" alt="top langs" />
 </div>
