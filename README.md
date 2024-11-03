@@ -57,5 +57,5 @@
 
 <h6> Fun Fact </h6>
 <span>
-    I'm a cat <img height=170 src="https://uploads.dailydot.com/2024/09/cat-cats.gif?auto=compress&fm=gif" align="right" />
+   <img height=70 src="https://uploads.dailydot.com/2024/09/cat-cats.gif?auto=compress&fm=gif" align="right" /> I'm a cat
 </span>
