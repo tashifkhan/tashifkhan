@@ -7,10 +7,14 @@
 	A Tech Enthusiast & Engineering UnderGrad 
 </h3>
 <div align = "center">
-		 currently working on  <a href=" http://designique.tashif.codes/">**Quip Quest**</a>
-		 learning  <span style="color:orange;"> **DSA**</span> & <span style="color:orange;">**Mobile Development**</span>
-		 Proficient in <span style="color:orange;">**React**</span>, <span style="color:orange;">**Flask**</span> & <span style="color:orange;">**Python Automation**</span>
-
+	<p>
+		 currently working on  <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
+	<p>
+		 learning  <span style="color:orange;"> <b>DSA</span> & <span style="color:orange;">Mobile Development</b></span>
+	</p>
+	<p>
+		Proficient in <span style="color:orange;"><b>React</span>, <span style="color:orange;">Flask</span> & <span style="color:orange;">Python Automation</b></span>
+	</p>
 </div>
 
 <div align="center"> 
