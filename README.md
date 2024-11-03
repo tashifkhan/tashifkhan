@@ -6,15 +6,10 @@
 <h3 align = "center">
 	A Tech Enthusiast & Engineering UnderGrad 
 </h3>
-<div align = "center">
-	<p>
-		 currently working on  <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
-	<p>
-		 learning  <span style="color:orange;"> <b>DSA</span> & <span style="color:orange;">Mobile Development</b></span>
-	</p>
-	<p>
-		Proficient in <span style="color:orange;"><b>React</span>, <span style="color:orange;">Flask</span> & <span style="color:orange;">Python Automation</b></span>
-	</p>
+<div align="center">
+	<p><strong>Currently working on <a href="http://designique.tashif.codes/">Quip Quest</a></strong></p>
+	<p>Learning <strong>DSA</strong> and <strong>Mobile Development</strong></p>
+	<p>Proficient in <strong>React</strong>, <strong>Flask</strong>, and <strong>Python Automation</strong></p>
 </div>
 
 <div align="center"> 
