@@ -8,13 +8,13 @@
 </h3>
 <div align = "center">
 	<p>
-		 currently working on <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
+		 currently working on  <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
 	</p>
 	<p>
-		 learning <b>DSA & Mobile Development</b>
+		 learning  <span style="color:orange;"> <b>DSA & Mobile Development</b></span>
 	</p>
 	<p>
-		Proficient in <span style="color:blue;">React, Flask & Python Automation</spam>
+		Proficient in <span style="color:orange;"><b>React, Flask & Python Automation</b></span>
 	</p>
 </div>
 
