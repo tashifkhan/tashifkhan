@@ -7,15 +7,10 @@
 	A Tech Enthusiast & Engineering UnderGrad 
 </h3>
 <div align = "center">
-	<p>
-		 currently working on  <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
-	</p>
-	<p>
-		 learning  <span style="color:orange;"> <b>DSA</span> & <span style="color:orange;">Mobile Development</b></span>
-	</p>
-	<p>
-		Proficient in <span style="color:orange;"><b>React</span>, <span style="color:orange;">Flask</span> & <span style="color:orange;">Python Automation</b></span>
-	</p>
+		 currently working on  <a href=" http://designique.tashif.codes/">**Quip Quest**</a>
+		 learning  <span style="color:orange;"> **DSA**</span> & <span style="color:orange;">**Mobile Development**</span>
+		 Proficient in <span style="color:orange;">**React**</span>, <span style="color:orange;">**Flask**</span> & <span style="color:orange;">**Python Automation**</span>
+
 </div>
 
 <div align="center"> 
@@ -57,5 +52,5 @@
 
 <h6> Fun Fact </h6>
 <span>
-   <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm a cat
+   <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm just a cat
 </span>
