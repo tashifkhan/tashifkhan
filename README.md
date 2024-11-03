@@ -9,7 +9,7 @@
 <div align="center">
 	<p><strong>Currently working on <a href="http://designique.tashif.codes/">Quip Quest</a></strong></p>
 	<p>Learning <strong><a href="#">DSA</a></strong> and <strong><a href="#">Mobile Development</a></strong></p>
-	<p>Proficient in <strong>React</strong>, <strong>Flask</strong>, and <strong>Python Automation</strong></p>
+	<p>Proficient in <strong><a  href="#">React</a></strong>, <strong><a  href="#">Flask</a></strong>, and <strong><a  href="#">Python Automation</a></strong></p>
 </div>
 
 <div align="center"> 
