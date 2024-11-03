@@ -11,10 +11,10 @@
 		 currently working on  <a href=" http://designique.tashif.codes/"><b>Quip Quest</b></a>
 	</p>
 	<p>
-		 learning  <span style="color:orange;"> <b>DSA & Mobile Development</b></span>
+		 learning  <span style="color:orange;"> <b>DSA</span> & <span style="color:orange;">Mobile Development</b></span>
 	</p>
 	<p>
-		Proficient in <span style="color:orange;"><b>React, Flask & Python Automation</b></span>
+		Proficient in <span style="color:orange;"><b>React</span>, <span style="color:orange;">Flask</span> & <span style="color:orange;">Python Automation</b></span>
 	</p>
 </div>
 
@@ -54,3 +54,8 @@
         alt="top langs" 
     />
 </div>
+
+<h6> Fun Fact </h6>
+<span>
+    I'm a cat <img height=170 src="https://uploads.dailydot.com/2024/09/cat-cats.gif?auto=compress&fm=gif" align="right" />
+</span>
