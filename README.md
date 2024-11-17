@@ -38,12 +38,12 @@
 
 <div align=center>
     <img 
-        height = 150 
+        height = 200 
         src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=10" 
         alt="streak stats"
     />
     <img 
-        height = 150  
+        height = 200
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react" 
         alt="top langs" 
     />
