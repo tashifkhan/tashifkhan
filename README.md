@@ -44,7 +44,7 @@
     />
     <img 
         height = 150  
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide=html" 
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react" 
         alt="top langs" 
     />
 </div>
