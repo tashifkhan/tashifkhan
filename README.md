@@ -37,11 +37,7 @@
 <br />
 
 <div align=center>
-    <img 
-        height = 150
-        src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=11" 
-        alt="streak stat"
-    />
+    <a href="https://git.io/streak-stats"><img height = 150 src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
     <img 
         height = 150
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide=jupyter%20notebook,html,css,scss"
