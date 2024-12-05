@@ -39,7 +39,7 @@
 <div align=center>
     <img 
         height = 150
-        src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=10" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=11" 
         alt="streak stat"
     />
     <img 
