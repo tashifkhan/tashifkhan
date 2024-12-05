@@ -40,7 +40,7 @@
     <img 
         height = 150
         src="https://github-readme-streak-stats.herokuapp.com/?user=tashifkhan&count_private=true&theme=react&border_radius=10" 
-        alt="streak stats"
+        alt="streak stat"
     />
     <img 
         height = 150
