@@ -40,7 +40,7 @@
     <a href="https://git.io/streak-stats"><img height = 150 src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
     <img 
         height = 150
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide=jupyter%20notebook,html,css,scss"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss"
         alt="top langs" 
     />
 </div>
