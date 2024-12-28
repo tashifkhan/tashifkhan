@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank" />
   </a>
-  <a href="portfolio.tashif.codes" target="_blank">
+  <a href="https://portfolio.tashif.codes/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
     <a href="https://www.leetcode.com/khan-tashif" target="_blank">
