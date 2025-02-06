@@ -29,10 +29,16 @@
 
 <h2 align="center"> Languages, Frameworks, Tools </h2>
 
-<!-- <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,appwrite,nextjs,html,css,bootstrap,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,cpp,mysql,flask,linux" /><br>
-</div> -->
+<div align=center>
+    <a href="https://git.io/streak-stats"><img height = 150 src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
+    <img 
+        height = 150
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss"
+        alt="top langs" 
+    />
+</div>
+
+<br />
 
 <div align="center">
 <table align="center" style="margin: 0 auto;">
@@ -50,7 +56,7 @@
   </tr>
   <tr align="center">
     <td align="center"><strong>App Development</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=electron" /> ![](/icons/expo.png)</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height=50px> </td>
   </tr>
   <tr align="center">
     <td align="center"><strong>Databases & Services</strong></td>
@@ -62,17 +68,6 @@
   </tr>
 </table>
 </div>
-</div>
-
-<br />
-
-<div align=center>
-    <a href="https://git.io/streak-stats"><img height = 150 src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
-    <img 
-        height = 150
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss"
-        alt="top langs" 
-    />
 </div>
 
 <h6> Fun Fact </h6>
