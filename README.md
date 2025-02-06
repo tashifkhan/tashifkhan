@@ -34,22 +34,16 @@
 <div align="center">
     <h4>Languages</h4>
     <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
-
     <h4>Frontend</h4>
     <img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" />
-
     <h4>Backend</h4>
     <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" />
-
     <h4>App Development</h4>
     <img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height="48" />
-
     <h4>Database & Services</h4>
     <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" />
-
     <h4>DevOps & Tools</h4>
     <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" />
-
 </div>
 
 <br/>
