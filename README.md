@@ -34,15 +34,34 @@
 <table align="center">
   <tr align="center">
     <td align="center" width="140"><strong>Languages</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp" height="50px"/></td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=js" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=ts" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=cpp" height="50px"/>
+    </td>
   </tr>
   <tr align="center">
     <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" height="50px"/></td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=astro" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=react" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=next" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=remix" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="50px"/>
+    </td>
   </tr>
   <tr align="center">
     <td align="center"><strong>Backend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" height="50px"/></td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=express" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=django" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=fastapi" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=flask" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=wasm" height="50px"/>
+    </td>
   </tr>
   <tr align="center">
     <td align="center"><strong>App Dev</strong></td>
@@ -50,11 +69,26 @@
   </tr>
   <tr align="center">
     <td align="center"><strong>Database & Services</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" height="50px"/></td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=mongodb" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=postgres" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=mysql" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=firebase" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=appwrite" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=supabase" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=graphql" height="50px"/>
+    </td>
   </tr>
   <tr align="center">
     <td align="center"><strong>DevOps & Tools</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" height="50px"/></td>
+    <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=git" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=github" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=githubactions" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=linux" height="50px"/>
+        <img src="https://skillicons.dev/icons?i=postman" height="50px"/>
+    </td>
   </tr>
 </table>
 
