@@ -7,14 +7,14 @@
 <h3 align="center">A Tech Enthusiast & Engineering UnderGrad</h3>
 
 <div align="center">
-    <p><strong>🚀 Currently working on <a href="http://designique.tashif.codes/">Quip Quest</a></strong></p>
-    <p>📚 Learning <strong><a href="#">DSA</a></strong> and <strong><a href="#">Mobile Development</a></strong></p>
-    <p>💻 Proficient in <strong><a href="#">React</a></strong>, <strong><a href="#">Flask</a></strong>, and <strong><a href="#">Python Automation</a></strong></p>
+    <p>Currently working on <strong><a href="http://designique.tashif.codes/">Designique</a></strong></p>
+    <p>Learning <strong>DSA</strong> and <strong>Mobile Development</strong></p>
+    <p>Proficient in <strong>React</strong>, <strong>Flask</strong>, and <strong>Python Automation</strong></p>
 </div>
 
 <div align="center"> 
   <a href="mailto:tashif@duck.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=orange" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=orange" />
   </a>
   <a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" />
@@ -29,7 +29,31 @@
 
 <br/>
 
-<h2 align="center">📈</h2>
+<h2 align="center">Technical Arsenal</h2>
+
+<div align="center">
+    <h4>Languages</h4>
+    <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
+
+    <h4>Frontend</h4>
+    <img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" />
+
+    <h4>Backend</h4>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" />
+
+    <h4>App Development</h4>
+    <img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height="48" />
+
+    <h4>Database & Services</h4>
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" />
+
+    <h4>DevOps & Tools</h4>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" />
+
+</div>
+
+<br/>
+
 <div align="center">
     <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
@@ -37,41 +61,9 @@
 
 <br/>
 
-<h2 align="center">🛠️</h2>
-<div align="center">
-<table align="center">
-  <tr align="center">
-    <td align="center" width="140"><strong>Languages</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /></td>
-  </tr>
-  <tr align="center">
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" /></td>
-  </tr>
-  <tr align="center">
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" /></td>
-  </tr>
-  <tr align="center">
-    <td align="center"><strong>App Dev</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height="50px"></td>
-  </tr>
-  <tr align="center">
-    <td align="center"><strong>Database & Services</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" /></td>
-  </tr>
-  <tr align="center">
-    <td align="center"><strong>DevOps & Tools</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" /></td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
 <div>
     <h6> Fun Fact </h6>
     <span>
-        <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm just a cat
+        <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /><em> &nbsp; &nbsp; I'm just a cat </em>
     </span>
 </div>
