@@ -34,15 +34,15 @@
 <table align="center">
   <tr align="center">
     <td align="center" width="140"><strong>Languages</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp" height="50px"/></td>
   </tr>
   <tr align="center">
     <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" height="50px"/></td>
   </tr>
   <tr align="center">
     <td align="center"><strong>Backend</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" height="50px"/></td>
   </tr>
   <tr align="center">
     <td align="center"><strong>App Dev</strong></td>
@@ -50,11 +50,11 @@
   </tr>
   <tr align="center">
     <td align="center"><strong>Database & Services</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" height="50px"/></td>
   </tr>
   <tr align="center">
     <td align="center"><strong>DevOps & Tools</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,postman" height="50px"/></td>
   </tr>
 </table>
 
