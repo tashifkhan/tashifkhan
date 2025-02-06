@@ -1,15 +1,15 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=tashifkhan&style=for-the-badge&color=orange" />
-<br />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Hi+There!+👋;+I'm+Tashif+Ahmad+Khan!;" />
 </h1>
-<h3 align = "center">
-	A Tech Enthusiast & Engineering UnderGrad 
-</h3>
+
+<h3 align="center">A Tech Enthusiast & Engineering UnderGrad</h3>
+
 <div align="center">
-	<p><strong>Currently working on <a href="http://designique.tashif.codes/">Quip Quest</a></strong></p>
-	<p>Learning <strong><a href="#">DSA</a></strong> and <strong><a href="#">Mobile Development</a></strong></p>
-	<p>Proficient in <strong><a  href="#">React</a></strong>, <strong><a  href="#">Flask</a></strong>, and <strong><a  href="#">Python Automation</a></strong></p>
+    <p><strong>🚀 Currently working on <a href="http://designique.tashif.codes/">Quip Quest</a></strong></p>
+    <p>📚 Learning <strong><a href="#">DSA</a></strong> and <strong><a href="#">Mobile Development</a></strong></p>
+    <p>💻 Proficient in <strong><a href="#">React</a></strong>, <strong><a href="#">Flask</a></strong>, and <strong><a href="#">Python Automation</a></strong></p>
 </div>
 
 <div align="center"> 
@@ -17,50 +17,47 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=orange" />
   </a>
   <a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://portfolio.tashif.codes/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
-    <a href="https://www.leetcode.com/khan-tashif" target="_blank">
-     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> 
+  <a href="https://www.leetcode.com/khan-tashif" target="_blank">
+     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /> 
   </a>
 </div>
-<br />
 
-<h2 align="center"> Languages, Frameworks, Tools </h2>
+<br/>
 
-<div align=center>
-    <a href="https://git.io/streak-stats"><img height = 150 src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
-    <img 
-        height = 150
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss"
-        alt="top langs" 
-    />
-</div>
-
-<br />
-
+<h2 align="center">📈</h2>
 <div align="center">
-<table align="center" style="margin: 0 auto;">
+    <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
+</div>
+
+<br/>
+
+<h2 align="center">🛠️</h2>
+<div align="center">
+<table align="center">
   <tr align="center">
-    <td align="center"><strong>Programming Languages</strong></td>
+    <td align="center" width="140"><strong>Languages</strong></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=python,js,ts,cpp" /></td>
   </tr>
   <tr align="center">
-    <td align="center"><strong>Frontend Development</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=astro,react,next,remix,tailwind,bootstrap" /></td>
   </tr>
   <tr align="center">
-    <td align="center"><strong>Backend Development</strong></td>
+    <td align="center"><strong>Backend</strong></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,wasm" /></td>
   </tr>
   <tr align="center">
-    <td align="center"><strong>App Development</strong></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height=50px> </td>
+    <td align="center"><strong>App Dev</strong></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=electron" /> <img src="./icons/expo.png" height="50px"></td>
   </tr>
   <tr align="center">
-    <td align="center"><strong>Databases & Services</strong></td>
+    <td align="center"><strong>Database & Services</strong></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,appwrite,supabase,graphql" /></td>
   </tr>
   <tr align="center">
@@ -69,9 +66,12 @@
   </tr>
 </table>
 </div>
-</div>
 
-<h6> Fun Fact </h6>
-<span>
-   <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm just a cat
-</span>
+<br/>
+
+<div>
+    <h6> Fun Fact </h6>
+    <span>
+        <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm just a cat
+    </span>
+</div>
