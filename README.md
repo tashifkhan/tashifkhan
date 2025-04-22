@@ -110,16 +110,8 @@
 <div align="left">
   <h3><code>$ ./system_status.sh</code></h3>
   <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
-      </td>
-      <td>
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+    <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
   </div>
 </div>
 
