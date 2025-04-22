@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=tashifkhan&style=for-the-badge&color=orange" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&duration=4000&lines=Hello+World!;I'm+Tashif+Ahmad+Khan!;> Coding my problems_" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Hello+World!;I'm+Tashif+Ahmad+Khan!;>+Coding+my+problems_" />
 </div>
 
 <h3 align="center"><code>{ A Tech Enthusiast & Engineering UnderGrad }</code></h3>
@@ -29,10 +29,10 @@
 
 <div align="center">
   <pre><code>const contact = {
-    email: "<a href="mailto:tashif@duck.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=Gmail&logoColor=orange" /></a>",
-    linkedin: "<a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-79C2F3?style=for-the-badge&logo=linkedin&logoColor=black" /></a>",
-    portfolio: "<a href="https://portfolio.tashif.codes/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=todoist&logoColor=white" /></a>",
-    leetcode: "<a href="https://www.leetcode.com/khan-tashif" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>"
+    email: "<a href="mailto:tashif@duck.com" target="_blank">tashif@duck.com</a>",
+    linkedin: "<a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">tashif-ahmad-khan-982304244</a>",
+    portfolio: "<a href="https://portfolio.tashif.codes/" target="_blank">portfolio.tashif.codes</a>",
+    leetcode: "<a href="https://www.leetcode.com/khan-tashif" target="_blank">khan-tashif</a>"
   };</code></pre>
 </div>
 
@@ -107,26 +107,26 @@
 
 <br/>
 
-<div align="center">
-  <details>
-    <summary><b>$ cat ./my_stats.json</b></summary>
-    <br/>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10">
-      <img height="160" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss">
-      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
-    </picture>
-  </details>
+<div align="left">
+  <h3><code>$ ./system_status.sh</code></h3>
+  <table>
+    <tr>
+      <td>
+        <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
+      </td>
+      <td>
+        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
-<div>
-    <h6> Fun Fact </h6>
-    <span>
-        <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" align="left" /> &nbsp; &nbsp; I'm just a cat
-    </span>
+<div align="left">
+  <h3><code>cat ~/fun_fact.txt</code></h3>
+  <span>
+    <img height=100 src="https://media.tenor.com/-ufrqpl5cp0AAAAM/test.gif" style="margin-right: 15px;" /> 
+    <span style="vertical-align: middle; font-size: 18px;"><i>I'm just a cat</i></span>
+  </span>
 </div>
