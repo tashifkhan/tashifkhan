@@ -109,6 +109,7 @@
 
 <div align="left">
   <h3><code>$ ./system_status.sh</code></h3>
+  <div align="center">
   <table>
     <tr>
       <td>
@@ -119,6 +120,7 @@
       </td>
     </tr>
   </table>
+  </div>
 </div>
 
 <br/>
