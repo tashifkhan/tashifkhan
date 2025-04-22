@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=tashifkhan&style=for-the-badge&color=orange" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Hello+World!;I'm+Tashif+Ahmad+Khan!;>+Coding+my+problems_" />
 </div>
 
@@ -27,7 +27,7 @@
   </table>
 </div>
 
-<div align="center">
+<div align="left">
   <pre><code>const contact = {
     email: "<a href="mailto:tashif@duck.com" target="_blank">tashif@duck.com</a>",
     linkedin: "<a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">tashif-ahmad-khan-982304244</a>",
