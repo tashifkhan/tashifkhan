@@ -113,7 +113,7 @@
   <div align="center">
     <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
-    <img height="230" src = "https://github-readme-activity-graph.vercel.app/graph?username=tashifkhan&theme=reac" alt="Contribution Graph">
+    <img height="230" src = "https://github-readme-activity-graph.vercel.app/graph?username=tashifkhan&theme=react" alt="Contribution Graph">
   </div>
 </div>
 
