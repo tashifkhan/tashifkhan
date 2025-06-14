@@ -44,9 +44,10 @@
   <h3>import Languages from "./skills";</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=python" height="50px"/>
+    <img src="https://skillicons.dev/icons?i=go" height="50px"/>
+    <img src="https://skillicons.dev/icons?i=cpp" height="50px"/>
     <img src="https://skillicons.dev/icons?i=js" height="50px"/>
     <img src="https://skillicons.dev/icons?i=ts" height="50px"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="50px"/>
   </div>
   
   <h3>function renderFrontend() {</h3>
@@ -112,6 +113,7 @@
   <div align="center">
     <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
+    <img height="230" src = "https://github-readme-activity-graph.vercel.app/graph?username=tashifkhan&theme=reac" alt="Contribution Graph">
   </div>
 </div>
 
