@@ -90,7 +90,7 @@
     <img src="https://skillicons.dev/icons?i=supabase" height="70px"/>
     <img src="https://skillicons.dev/icons?i=graphql" height="70px"/>
     <br/>
-    <p>SELECT * FROM skills WHERE category = 'database';</p>
+    <p><code>SELECT * FROM skills WHERE category = 'database';</code></p>
   </div>
   
   <h3>$ DevOps && Tools</h3>
