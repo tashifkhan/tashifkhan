@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Hello+World!;I'm+Tashif+Ahmad+Khan!;>+Coding+my+problems_" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=4000&lines=Holaa!;I'm+Tashif+Ahmad+Khan!;>+Coding+my+problems_" />
 </div>
 
 <h3 align="center"><code>{ A Tech Enthusiast & Engineering UnderGrad }</code></h3>
@@ -41,69 +41,90 @@
 <h2 align="center">{ .technical_arsenal(); }</h2>
 
 <div align="center">
-  <h3>import Languages from "./skills";</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=python" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=go" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=cpp" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=js" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=ts" height="70px"/>
-  </div>
-  
-  <h3>function renderFrontend() {</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=astro" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=react" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=next" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=remix" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=tailwind" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="70px"/>
-    <br/>
-    <p><code>return <JSX />;</code></p>
-  </div>
-  
-  <h3>class Backend extends Server {</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=nodejs" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=bun" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=django" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=fastapi" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=flask" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=wasm" height="70px"/>
-    <br/>
-    <p><code>@route('/api/skills')</code></p>
-  </div>
-  
-  <h3>< App Development /></h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=electron" height="70px"/>
-    <img src="./icons/expo.png" height="70px">
-  </div>
-  
-  <h3>{ Database & Services }</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=mongodb" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=postgres" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=mysql" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=firebase" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=appwrite" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=supabase" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=graphql" height="70px"/>
-    <br/>
-    <p><code>SELECT * FROM skills WHERE category = 'database';</code></p>
-  </div>
-  
-  <h3>$ DevOps && Tools</h3>
-  <div>
-    <img src="https://skillicons.dev/icons?i=docker" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=git" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=github" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=githubactions" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=linux" height="70px"/>
-    <img src="https://skillicons.dev/icons?i=postman" height="70px"/>
-    <br/>
-    <p><code>chmod +x ./my_skills</code></p>
-  </div>
+
+<pre><code>
+const skills = {
+  languages: [
+    'Python', 'Go', 'C++', 'JavaScript', 'TypeScript'
+  ],
+  frontend: [
+    'Astro', 'React', 'Next.js', 'Remix', 'Tailwind', 'Bootstrap'
+  ],
+  backend: [
+    'Node.js', 'Bun', 'Django', 'FastAPI', 'Flask', 'WASM'
+  ],
+  appDev: [
+    'Electron', 'Expo'
+  ],
+  databases: [
+    'MongoDB', 'Postgres', 'MySQL', 'Firebase', 'Appwrite', 'Supabase', 'GraphQL'
+  ],
+  devops: [
+    'Docker', 'Git', 'GitHub', 'GitHub Actions', 'Linux', 'Postman'
+  ]
+};
+</code></pre>
+
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>App Dev</th>
+    <th>Databases</th>
+    <th>DevOps & Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=go" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=cpp" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=js" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=ts" height="40px"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=astro" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=react" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=next" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=remix" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40px"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=bun" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=django" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=fastapi" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=flask" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=wasm" height="40px"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=electron" height="40px"/>
+      <img src="./icons/expo.png" height="40px"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=postgres" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=mysql" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=firebase" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=appwrite" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=supabase" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=graphql" height="40px"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=git" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=github" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=githubactions" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=linux" height="40px"/>
+      <img src="https://skillicons.dev/icons?i=postman" height="40px"/>
+    </td>
+  </tr>
+</table>
+
+<pre><code>// To learn more, run: $ man tashif-skills
+</code></pre>
+
 </div>
 
 <br/>
