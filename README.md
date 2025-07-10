@@ -40,7 +40,7 @@
 
 <h2 align="center">{ .technical_arsenal(); }</h2>
 
-<div align="center">
+<div>
 
 <pre><code>
 const skills = {
