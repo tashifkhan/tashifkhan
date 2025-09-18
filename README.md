@@ -13,7 +13,7 @@
     <tr>
       <td align="center">
         <strong>Currently working on</strong><br>
-        <a href="http://designique.tashif.codes/">Designique</a>
+        <a href="http://talentsync.tashif.codes/">TalentSync AI</a>
       </td>
       <td align="center">
         <strong>Learning</strong><br>
@@ -30,8 +30,8 @@
 <div align="left">
   <pre><code>const contact = {
     email: "<a href="mailto:tashif@duck.com" target="_blank">tashif@duck.com</a>",
-    linkedin: "<a href="https://www.linkedin.com/in/tashif-ahmad-khan-982304244/" target="_blank">tashif-ahmad-khan-982304244</a>",
-    portfolio: "<a href="https://portfolio.tashif.codes/" target="_blank">portfolio.tashif.codes</a>",
+    linkedin: "<a href="https://www.linkedin.com/in/tashifkhan/" target="_blank">tashifkhan</a>",
+    portfolio: "<a href="https://portfolio.tashif.codes/" target="_blank">tashif.codes</a>",
     leetcode: "<a href="https://www.leetcode.com/khan-tashif" target="_blank">khan-tashif</a>"
   };</code></pre>
 </div>
