@@ -17,11 +17,11 @@
       </td>
       <td align="center">
         <strong>Learning</strong><br>
-        <a href="#">DSA</a> & <a href="#">Mobile Development</a>
+        <a href="#">Low Level Systems</a> & <a href="#">GenAI</a>
       </td>
       <td align="center">
         <strong>Proficient in</strong><br>
-        <a href="#">React</a>, <a href="#">Flask</a>, <a href="#">Python Automation</a>
+        <a href="#">React</a> & <a href="#">Python</a>
       </td>
     </tr>
   </table>
@@ -30,6 +30,7 @@
 <div align="left">
   <pre><code>const contact = {
     email: "<a href="mailto:tashif@duck.com" target="_blank">tashif@duck.com</a>",
+    blog: "<a href="https://blog.tashif.codes/", target="_black">blog.tashif.codes</a>"
     linkedin: "<a href="https://www.linkedin.com/in/tashifkhan/" target="_blank">tashifkhan</a>",
     portfolio: "<a href="https://portfolio.tashif.codes/" target="_blank">tashif.codes</a>",
     leetcode: "<a href="https://www.leetcode.com/khan-tashif" target="_blank">khan-tashif</a>"
@@ -38,54 +39,10 @@
 
 <br/>
 
-<h2 align="center">{ .technical_arsenal(); }</h2>
-
-<!-- Skill Matrix: Nerdy Code Snippet Edition -->
-
-<h3 align="center">import Languages from "./skills";</h3>
-<pre><code>const Languages = [</code>
-  <img src="https://skillicons.dev/icons?i=python" height="50px"/>,<img src="https://skillicons.dev/icons?i=go" height="50px"/>,<img src="https://skillicons.dev/icons?i=cpp" height="50px"/>,<img src="https://skillicons.dev/icons?i=js" height="50px"/>,<img src="https://skillicons.dev/icons?i=ts" height="50px"/>
-];
-</pre>
-
-<h3 align="center">function renderFrontend() {'{'}</h3>
-<pre><code>return [</code>
-  <img src="https://skillicons.dev/icons?i=astro" height="50px"/>,<img src="https://skillicons.dev/icons?i=react" height="50px"/>,<img src="https://skillicons.dev/icons?i=next" height="50px"/>,<img src="https://skillicons.dev/icons?i=remix" height="50px"/>,<img src="https://skillicons.dev/icons?i=tailwind" height="50px"/>,<img src="https://skillicons.dev/icons?i=bootstrap" height="50px"/>
-];
-</code></pre>
-
-<h3 align="center">class Backend extends Server {'{'}</h3>
-<pre><code>static stack = [</code>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50px"/>,<img src="https://skillicons.dev/icons?i=bun" height="50px"/>,<img src="https://skillicons.dev/icons?i=django" height="50px"/>,<img src="https://skillicons.dev/icons?i=fastapi" height="50px"/>,<img src="https://skillicons.dev/icons?i=flask" height="50px"/>,<img src="https://skillicons.dev/icons?i=wasm" height="50px"/>
-];
-// @route('/api/skills')
-</code></pre>
-
-<h3 align="center">< App Development /></h3>
-<pre><code>[</code>
-  <img src="https://skillicons.dev/icons?i=electron" height="50px"/>,<img src="./icons/expo.png" height="50px"/>
-]
-</code></pre>
-
-<h3 align="center">{ DatabaseAndServices }</h3>
-<pre><code>[</code>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50px"/>,<img src="https://skillicons.dev/icons?i=postgres" height="50px"/>,<img src="https://skillicons.dev/icons?i=mysql" height="50px"/>,<img src="https://skillicons.dev/icons?i=firebase" height="50px"/>,<img src="https://skillicons.dev/icons?i=appwrite" height="50px"/>,<img src="https://skillicons.dev/icons?i=supabase" height="50px"/>,<img src="https://skillicons.dev/icons?i=graphql" height="50px"/>
-]
-// SELECT * FROM skills WHERE category = 'database';
-</code></pre>
-
-<h3 align="center">$ DevOps && Tools</h3>
-<pre><code>[</code>
-  <img src="https://skillicons.dev/icons?i=docker" height="50px"/>,<img src="https://skillicons.dev/icons?i=git" height="50px"/>,<img src="https://skillicons.dev/icons?i=github" height="50px"/>,<img src="https://skillicons.dev/icons?i=githubactions" height="50px"/>,<img src="https://skillicons.dev/icons?i=linux" height="50px"/>,<img src="https://skillicons.dev/icons?i=postman" height="50px"/>
-]
-// chmod +x ./my_skills
-</code></pre>
-
-<br/>
-
 <div align="left">
   <h3><code>$ ./system_status.sh</code></h3>
   <div align="center">
+    <!-- <img height="230" src="https://github-readme-stats.vercel.app/api?username=tashifkhan&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)" /> -->
     <img height="150" src="https://streak-stats.demolab.com?user=tashifkhan&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashifkhan&layout=compact&theme=react&hide_border=true&border_radius=10&hide=jupyter%20notebook,html,css,scss" alt="Top Languages" />
     <img height="230" src = "https://github-readme-activity-graph.vercel.app/graph?username=tashifkhan&theme=react&radius=10&hide_border=true&custom_title=Contributions" alt="Contribution Graph">
