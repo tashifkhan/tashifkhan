@@ -2,31 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=tashifkhan&style=for-the-badge&color=orange" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=35&center=true&vCenter=true&width=500&height=70&color=79c2f3&&duration=5000&lines=Holaa!;I'm+Tashif+Ahmad+Khan!;>+Coding+my+problems_" />
-</div>
-
-<h3 align="center"><code>{ A Tech Enthusiast & Engineering UnderGrad }</code></h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <strong>Currently working on</strong><br>
-        <a href="http://talentsync.tashif.codes/">TalentSync AI</a>
-      </td>
-      <td align="center">
-        <strong>Learning</strong><br>
-        <a href="#">Low Level Systems</a> & <a href="#">GenAI</a>
-      </td>
-      <td align="center">
-        <strong>Proficient in</strong><br>
-        <a href="#">React</a> & <a href="#">Python</a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="left">
   <pre><code>const contact = {
     email: "<a href="mailto:tashif@duck.com" target="_blank">tashif@duck.com</a>",
