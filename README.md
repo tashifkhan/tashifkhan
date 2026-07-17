@@ -19,7 +19,7 @@
   <br/>
   <div align="center">
     <a href="https://github.com/tashifkhan">
-      <img src="https://github-stats.tashif.codes/tashifkhan/stats/svg" alt="GitHub Stats" />
+      <img src="https://github-stats.tashif.codes/tashifkhan/stats/svg?exclude=Jupyter%20Notebook,CSS,HTML" alt="GitHub Stats" />
     </a>
     &nbsp;
     <a href="https://www.leetcode.com/khan-tashif">
