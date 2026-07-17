@@ -14,7 +14,7 @@
 
 <br/>
 
-<details open>
+<details>
   <summary><b><code>$ ./system_status.sh</code></b></summary>
   <br/>
   <div align="center">
